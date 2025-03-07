@@ -33,7 +33,7 @@ A modern e-commerce platform built with Next.js 13+, featuring a responsive desi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/tech-store.git
+   git clone https://github.com/shashishsoni/task-e-commerce-cart.git
    cd tech-store
    ```
 
@@ -46,16 +46,7 @@ A modern e-commerce platform built with Next.js 13+, featuring a responsive desi
    pnpm install
    ```
 
-3. **Set up environment variables**
-   ```bash
-   cp .env.example .env.local
-   ```
-   Then edit `.env.local` with your configuration:
-   ```env
-   NEXT_PUBLIC_API_URL=your_api_url
-   ```
-
-4. **Run the development server**
+3. **Run the development server**
    ```bash
    npm run dev
    # or
@@ -116,23 +107,6 @@ Tailwind CSS configuration in `tailwind.config.js`:
 - Extended color palette
 - Custom plugins
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. Commit your changes
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. Push to the branch
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. Open a Pull Request
-
 ## 📝 Scripts
 
 - `npm run dev` - Start development server
@@ -140,14 +114,6 @@ Tailwind CSS configuration in `tailwind.config.js`:
 - `npm start` - Start production server
 - `npm run lint` - Run ESLint
 - `npm run type-check` - Run TypeScript compiler check
-
-## 🔑 Environment Variables
-
-Required environment variables:
-```env
-NEXT_PUBLIC_API_URL=your_api_url
-NEXT_PUBLIC_IMAGE_DOMAIN=your_image_domain
-```
 
 ## 📱 Mobile Responsiveness
 
@@ -164,20 +130,11 @@ The application is fully responsive and tested on:
 - Static page generation where possible
 - Efficient state management with Redux Toolkit
 
-## 🔒 Security
 
-- Input sanitization
-- Form validation
-- Protected API routes
-- Secure environment variables
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGithub](https://github.com/yourusername)
+- Your shashish - Initial work - [YourGithub](https://github.com/shashishsoni)
 
 ## 🙏 Acknowledgments
 
@@ -187,4 +144,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername) 
+Made with ❤️ by [Shashish soni](https://github.com/shashishsoni) 
